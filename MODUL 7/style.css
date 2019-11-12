@@ -1,0 +1,11 @@
+body{background:blue}
+h2{font-family:comic sans ms; background-color:red; text-align:center; border-style:double}
+table{background:grey}.td{font-weight:bold}
+p.dotted {border-style:dotted}
+p.dashed{border-style:dotted}
+p.solid {border-style:solid}
+p.double {border-style:double}
+p.groove {border-style:groove}
+p.ridge {border-style:ridge}
+p.inset {border-style:inset}
+p.outset {border-style:outset}
